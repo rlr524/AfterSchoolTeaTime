@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8FDC8E33-2AB7-41D1-BC99-030A77A99867}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AfterSchoolTeaTimeWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AfterSchoolTeaTimeWeb/Program.cs">
+    <Files>
+      <File FileName="AfterSchoolTeaTimeWeb/Program.cs" Line="25" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AfterSchoolTeaTime" expanded="True">
+            <Node name="AfterSchoolTeaTimeWeb" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

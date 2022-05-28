@@ -2,6 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AfterSchoolTeaTimeWeb.Models;
 
+// The Category model contains information related to categories of product
 public class Category
 {
     [Key]
